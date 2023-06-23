@@ -1,0 +1,273 @@
+Action,Application,Attribute Name,Attribute Value,Date,Source,Target
+Create,,,,"5/17/23, 2:10 PM",Unknown,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/28/23, 2:08 AM",Unknown,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"4/20/23, 3:56 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"4/20/23, 3:56 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"4/20/23, 3:56 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"4/20/23, 3:56 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"4/20/23, 3:56 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"4/20/23, 4:28 PM",spadmin,TaskSchedule:DHG Active Directory Sequential Full Account Aggregation Weekly
+Create,,,,"4/20/23, 4:28 PM",spadmin,TaskSchedule:DHG Active Directory Sequential Full Group Aggregation Weekly
+Create,,,,"4/20/23, 4:28 PM",spadmin,TaskSchedule:DHG ActiveDirectory Sequential Delta Account Aggregation
+Create,,,,"4/20/23, 4:28 PM",spadmin,TaskSchedule:DHG ActiveDirectory Sequential Delta Group Aggregation
+Create,,,,"4/20/23, 4:28 PM",spadmin,TaskSchedule:DHG Post Aggregation Refresh Identity - Attribute Sync and Role Assignment
+Create,,,,"4/20/23, 4:29 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure Active Directory Account Aggregation
+Create,,,,"4/20/23, 4:29 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure ActiveDirectory Account Delta Aggregation
+Create,,,,"4/20/23, 4:29 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure ActiveDirectory Group Aggregation
+Create,,,,"4/20/23, 4:29 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure ActiveDirectory Group Delta Aggregation
+Create,,,,"4/20/23, 4:30 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure ActiveDirectory Group Delta Aggregation
+Create,,,,"4/20/23, 4:30 PM",spadmin,TaskSchedule:DHG TaskDefinition Empty DHR Tab
+Create,,,,"4/20/23, 4:30 PM",spadmin,TaskSchedule:DHG TaskDefinition Mover Post Processing
+Create,,,,"4/20/23, 4:30 PM",spadmin,TaskSchedule:DHG Workday Delta Aggregation and Refresh Sequential Task
+Create,,,,"4/20/23, 4:30 PM",spadmin,TaskSchedule:DHG Workday Full Aggregation and Refresh Sequential Task
+Create,,,,"4/20/23, 5:15 PM",spadmin,TaskSchedule:DHG Active Directory Sequential Full Account Aggregation Weekly
+Create,,,,"4/20/23, 5:15 PM",spadmin,TaskSchedule:DHG Active Directory Sequential Full Group Aggregation Weekly
+Create,,,,"4/20/23, 5:15 PM",spadmin,TaskSchedule:DHG ActiveDirectory Sequential Delta Account Aggregation
+Create,,,,"4/20/23, 5:16 PM",spadmin,TaskSchedule:DHG ActiveDirectory Sequential Delta Group Aggregation
+Create,,,,"4/20/23, 5:16 PM",spadmin,TaskSchedule:DHG Post Aggregation Refresh Identity - Attribute Sync and Role Assignment
+Create,,,,"4/20/23, 5:16 PM",spadmin,TaskSchedule:DHG ActiveDirectory Sequential Delta Group Aggregation
+Create,,,,"4/20/23, 5:16 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure Active Directory Account Aggregation
+Create,,,,"4/20/23, 5:16 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure ActiveDirectory Account Delta Aggregation
+Create,,,,"4/20/23, 5:16 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure ActiveDirectory Group Aggregation
+Create,,,,"4/20/23, 5:16 PM",spadmin,TaskSchedule:DHG Workday Full Aggregation and Refresh Sequential Task
+Create,,,,"4/20/23, 5:17 PM",spadmin,TaskSchedule:DHG Workday Delta Aggregation and Refresh Sequential Task
+Create,,,,"4/20/23, 5:17 PM",spadmin,TaskSchedule:DHG TaskDefinition Mover Post Processing
+Create,,,,"4/20/23, 5:18 PM",spadmin,TaskSchedule:DHG TaskDefinition Empty DHR Tab
+Create,,,,"4/20/23, 5:18 PM",spadmin,TaskSchedule:DHG TaskDefinition Azure ActiveDirectory Group Aggregation
+Create,,,,"4/20/23, 5:28 PM",spadmin,TaskSchedule:DHG Workday Delta Aggregation and Refresh Sequential Task
+Create,,,,"4/20/23, 1:25 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"4/20/23, 1:25 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"4/20/23, 1:25 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"4/20/23, 1:25 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"4/20/23, 1:25 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"4/21/23, 3:23 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"4/21/23, 3:23 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"4/21/23, 3:23 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"4/21/23, 3:23 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"4/21/23, 3:23 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"4/24/23, 2:15 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"4/24/23, 2:15 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"4/24/23, 2:15 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"4/24/23, 2:15 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"4/24/23, 2:15 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"4/27/23, 3:27 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"4/27/23, 3:27 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"4/27/23, 3:27 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"4/27/23, 3:27 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"4/27/23, 3:27 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/3/23, 10:49 AM",spadmin,Rule:DHG Rule IdentityAttribute AdDisplayName
+Create,,,,"5/3/23, 10:52 AM",spadmin,Rule:DHG Rule Update Scope
+Create,,,,"5/3/23, 10:53 AM",spadmin,TaskDefinition:DHG TaskDefinition Update Scope
+Create,,,,"5/3/23, 10:53 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/3/23, 10:53 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/3/23, 10:53 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/3/23, 10:53 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/3/23, 10:53 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/4/23, 9:19 AM",spadmin,TaskSchedule:DHG Workday Full Aggregation and Refresh Sequential Task
+Create,,,,"5/9/23, 2:50 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/9/23, 2:50 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/9/23, 2:50 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/9/23, 2:50 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/9/23, 2:50 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/9/23, 3:27 PM",spadmin,Rule:DHG Rule IdentityAttribute Source DisplayName
+Create,,,,"5/9/23, 3:31 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/9/23, 3:31 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/9/23, 3:31 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/9/23, 3:31 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/9/23, 3:31 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/10/23, 3:26 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/10/23, 3:26 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/10/23, 3:26 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/10/23, 3:26 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/10/23, 3:26 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/12/23, 10:11 AM",lxe652,TaskDefinition:DHG Report Identity Access Request Report
+Create,,,,"5/12/23, 10:14 AM",lxe652,TaskDefinition:Automated Provisioning Transaction Object Report for lxe652
+Create,,,,"5/12/23, 1:20 PM",eej316,Application:Test CPD APP
+Create,,,,"5/12/23, 1:27 PM",eej316,Application:Test CPD
+Create,,,,"5/11/23, 11:24 AM",spadmin,Rule:LS ALD Rule AfterProvisioning Process Zendesk
+Create,,,,"5/11/23, 11:25 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/11/23, 11:25 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/11/23, 11:25 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/11/23, 11:25 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/11/23, 11:25 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/15/23, 2:25 PM",spadmin,Rule:DX CPD IdentityAttributeTarget Department
+Create,,,,"5/15/23, 2:26 PM",spadmin,Rule:DHG Rule IdentityAttribute Department
+Create,,,,"5/15/23, 2:30 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/15/23, 2:30 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/15/23, 2:30 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/15/23, 2:30 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/15/23, 2:30 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/16/23, 5:33 AM",Services,TaskDefinition:Data Collector Plugin Environment Information Report
+Create,IIQ,,name = 'DHG_IGA_Splunk_User',"5/16/23, 10:12 AM",obz770,DHG_IGA_Splunk_User
+Create,,,,"5/16/23, 5:23 AM",spadmin,Capability:SupportDataCollectorPlugin
+Create,,,,"5/16/23, 5:28 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/16/23, 5:28 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/16/23, 5:28 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/16/23, 5:28 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/16/23, 5:28 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/17/23, 2:27 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/17/23, 2:27 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/17/23, 2:27 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/17/23, 2:27 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/17/23, 2:27 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/21/23, 12:18 AM",odd303,TaskDefinition:Identity Request Status Report
+Create,,,,"5/21/23, 12:39 AM",odd303,TaskDefinition:Access Request Status Report - 1
+Create,,,,"5/21/23, 12:40 AM",odd303,TaskDefinition:Detailed Transaction report
+Create,,,,"5/19/23, 5:22 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/19/23, 5:22 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/19/23, 5:22 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/19/23, 5:22 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/19/23, 5:22 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/23/23, 10:31 AM",spadmin,TaskDefinition:LS ALD Rule Runner Test AfterProv
+Create,,,,"5/23/23, 10:31 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/23/23, 10:31 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/23/23, 10:31 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/23/23, 10:31 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/23/23, 10:31 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/25/23, 6:27 AM",spadmin,Rule:LS ALD Rule Test AfterProv
+Create,,,,"5/25/23, 6:28 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/25/23, 6:28 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/25/23, 6:28 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/25/23, 6:28 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/25/23, 6:28 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/25/23, 5:27 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/25/23, 5:27 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/25/23, 5:27 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/25/23, 5:27 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/25/23, 5:27 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/31/23, 12:12 PM",spadmin,TaskSchedule:DHG Workday Full Aggregation and Refresh Sequential Task
+Create,,,,"5/31/23, 12:12 PM",spadmin,TaskSchedule:DHG Assign Scope Rule Runner Schedule
+Create,,,,"5/31/23, 12:12 PM",spadmin,TaskSchedule:DHG TaskDefinition Update Scope Schedule
+Create,,,,"5/31/23, 5:53 PM",spadmin,EmailTemplate:DHG EmailTemplate AD Sheet Generator
+Create,,,,"5/31/23, 5:53 PM",spadmin,EmailTemplate:LS EmailTemplate Password Notification
+Create,,,,"5/31/23, 5:53 PM",spadmin,Rule:DHG AD Plan Sheet Generator
+Create,,,,"5/31/23, 5:56 PM",spadmin,Rule:DHG Rule Single Account Aggregation
+Create,,,,"5/31/23, 5:56 PM",spadmin,Rule:DHG Rule Workgroup Management
+Create,,,,"5/31/23, 5:57 PM",spadmin,Rule:LS HFM FileParsing Rule
+Create,,,,"5/31/23, 5:57 PM",spadmin,Rule:LS Rule AfterProvisioning HFM Process
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:DHG Post Aggregation Refresh Identity - Sciex
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:DHG Workgroup Management Task
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:LS ABX PHX HFM Active Directory Account Aggregation
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:LS ABX PHX HFM Active Directory Account DeltaAggregation
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:LS ABX PHX HFM Active Directory Group Aggregation
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:LS ABX PHX HFM Active Directory Group DeltaAggregation
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:LS MOL HFM Account Aggregation
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:LS PHX HFM Account Aggregation
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskDefinition:LS SCX HFM Account Aggregation
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"5/31/23, 5:58 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/2/23, 3:25 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/2/23, 3:25 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/2/23, 3:25 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/2/23, 3:25 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/2/23, 3:25 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/5/23, 10:20 PM",spadmin,Rule:DHG Rule IdentityTrigger Evaluate ABX Termination
+Create,,,,"6/5/23, 10:20 PM",spadmin,Rule:DHG Rule IdentitySelector Termination Inscope OpCos
+Create,,,,"6/5/23, 10:25 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/5/23, 10:25 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/5/23, 10:25 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/5/23, 10:25 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/5/23, 10:25 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/5/23, 10:25 PM",spadmin,Workflow:DHG Workflow Process ABX Termination Subprocess
+Create,,,,"6/5/23, 10:30 PM",Services,Rule:CMS Delete Objects
+Create,,,,"6/5/23, 10:30 PM",Services,Workflow:Workflow - CMS - Bulk Delete Objects
+Create,,,,"6/6/23, 6:51 PM",spadmin,TaskSchedule:LS SCX HFM Account Aggregation
+Create,,,,"6/6/23, 6:51 PM",spadmin,TaskSchedule:LS MOL HFM Account Aggregation
+Create,,,,"6/6/23, 6:52 PM",spadmin,TaskSchedule:LS PHX HFM Account Aggregation
+Create,,,,"6/6/23, 6:53 PM",spadmin,TaskSchedule:LS ABX Oracle 12 Account Aggregation
+Create,,,,"6/6/23, 6:54 PM",spadmin,TaskSchedule:LS ABX Oracle 12 Group Aggregation
+Create,,,,"6/6/23, 6:54 PM",spadmin,TaskSchedule:LS PHX HFM Account Aggregation
+Create,,,,"6/7/23, 9:00 AM",odd303,TaskDefinition:DHG Access Request Status Report Task - HFM
+Create,,,,"6/7/23, 11:08 AM",odd303,TaskDefinition:Application Account Summery Report - Soumtira
+Create,,,,"6/7/23, 11:09 AM",odd303,TaskDefinition:Account Attribute live report - soumitra
+Create,,,,"6/7/23, 12:57 PM",lxe652,TaskDefinition:Access Request Detail Report
+Create,,,,"6/7/23, 1:25 PM",odd303,TaskDefinition:Identity Entitlement Report -  HFM
+Create,,,,"6/7/23, 1:45 PM",lxe652,TaskDefinition:User Account Report - Oracle R12
+Create,,,,"6/7/23, 2:04 PM",lxe652,TaskDefinition:Identity Entitlements Detail Report - HFM
+Create,,,,"6/8/23, 3:23 AM",spadmin,Rule:DHG Rule IdentityAttribute Country
+Create,,,,"6/8/23, 3:28 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/8/23, 3:28 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/8/23, 3:28 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/8/23, 3:28 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/8/23, 3:28 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/8/23, 8:36 AM",pfh245,TaskDefinition:LS HFM Account Identities and Entitlement Report
+Create,,,,"6/8/23, 9:46 AM",pfh245,"TaskSchedule:LS HFM Manager Certification [DATE] [6/8/23, 1:46 PM]"
+Create,,,,"6/8/23, 2:03 PM",pfh245,TaskDefinition:Oracle R12 Accounts & Entitlements Report
+Create,,,,"6/8/23, 2:06 PM",pfh245,TaskDefinition:Oracle R12 User Account Report
+Create,,,,"6/8/23, 2:10 PM",pfh245,TaskDefinition:Oracle R12 User Account Report (6/8/2023)
+Create,,,,"6/8/23, 4:54 PM",pfh245,TaskDefinition:LS HFM Application Workgroups
+Create,,,,"6/8/23, 5:56 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/8/23, 5:56 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/8/23, 5:56 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/8/23, 5:56 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/8/23, 5:56 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/13/23, 11:25 AM",odd303,TaskDefinition:Access Request Status Report - soumitra
+Create,,,,"6/12/23, 3:22 PM",spadmin,Rule:DHG Rule IdentityFilterGenerator Manager Filter
+Create,,,,"6/12/23, 3:25 PM",spadmin,TaskDefinition:LS HFM Full AccountAggregation Sequential Task
+Create,,,,"6/12/23, 3:25 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/12/23, 3:25 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/12/23, 3:25 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/12/23, 3:25 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/12/23, 3:25 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/13/23, 6:02 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/13/23, 6:02 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/13/23, 6:02 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/13/23, 6:02 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/13/23, 6:02 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/13/23, 8:53 PM",eej316,TaskDefinition:Oracle R12 User Account Report (6/14)
+Create,,,,"6/16/23, 5:48 AM",odd303,TaskSchedule:LS HFM Full AccountAggregation Sequential Task
+Create,,,,"6/15/23, 3:22 PM",spadmin,Rule:LS ABX Rule BeforeProvisioning OracleR12 Update Account
+Create,,,,"6/15/23, 3:24 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/15/23, 3:24 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/15/23, 3:24 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/15/23, 3:24 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/15/23, 3:24 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/20/23, 5:31 AM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/20/23, 5:31 AM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/20/23, 5:31 AM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/20/23, 5:31 AM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/20/23, 5:31 AM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"6/20/23, 2:34 PM",spadmin,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/20/23, 2:34 PM",spadmin,TaskSchedule:Perform Maintenance - Certifications
+Create,,,,"6/20/23, 2:34 PM",spadmin,TaskSchedule:Perform Maintenance - Prune and Archive
+Create,,,,"6/20/23, 2:34 PM",spadmin,TaskSchedule:Perform maintenance
+Create,,,,"6/20/23, 2:34 PM",spadmin,TaskSchedule:Perform Trusted CA Tests
+Create,,,,"5/12/23, 10:18 AM",obz770,TaskDefinition:Identity Request Status_USR_0510
+Create,,,,"5/15/23, 4:43 PM",eej316,Application:SIEM Application
+Create,,,,"5/15/23, 4:43 PM",eej316,Rule:SIEM Group Membership Exclusion Rule
+Create,,,,"5/15/23, 4:43 PM",eej316,Workflow:SIEM Provisioning Approval Workflow
+Create,,,,"5/15/23, 4:43 PM",eej316,Workflow:SIEM Provisioning Workflow
+Create,,,,"5/15/23, 4:43 PM",eej316,Workflow:SIEM Remove Exclusion Rule
+Create,,,,"5/15/23, 4:43 PM",eej316,Capability:SIEMPluginAdministrator
+Create,,,,"5/15/23, 4:43 PM",eej316,Capability:SIEMEXTPluginAdministrator
+Create,,,,"5/18/23, 3:57 AM",lxe652,TaskDefinition:DHG Report User Account Details
+Create,,,,"5/31/23, 8:06 PM",obz770,TaskDefinition:LS ABX OracleR12 Identity Entitlement Report_05312023
+Create,,,,"5/31/23, 10:18 PM",odd303,TaskDefinition:DHG AD Sheet Generator
+Create,,,,"6/2/23, 4:10 PM",obz770,TaskDefinition:LS HFM Account Group Report_0602
+Create,,,,"6/16/23, 6:32 PM",tip542,"TaskSchedule:LS SCX HFM Manager Certification Q2 [6/16/23, 10:32 PM]"
+Create,,,,"6/16/23, 7:15 PM",tip542,"TaskSchedule:LS PHX HFM Manager Certification Q2 [6/16/23, 11:15 PM]"
+Create,,,,"6/16/23, 7:31 PM",tip542,"TaskSchedule:LS MOL HFM Manager Certification Q2 [6/16/23, 11:31 PM]"
+Create,,,,"6/22/23, 12:29 PM",tip542,TaskDefinition:Test
+Create,,,,"6/23/23, 8:33 AM",dgv496,TaskDefinition:LS HFM Certification Report
+Create,,,,"6/2/23, 3:09 PM",Unknown,TaskSchedule:Perform Identity Request Maintenance
+Create,,,,"6/5/23, 10:09 PM",Unknown,TaskSchedule:DHG Workday Full Aggregation and Refresh Sequential Task
+Create,,,,"5/23/23, 10:58 AM",odd303,TaskDefinition:LS ALD Rule AfterProvisioning Process Zendesk
+Create,,,,"6/12/23, 5:39 PM",pfh245,TaskDefinition:LS ABX Oracle R12 Identities and Entitlement Report (6/12)
+Create,,,,"6/13/23, 12:14 PM",pfh245,TaskDefinition:Oracle R12 User Account Report (6/13)
+Create,,,,"6/13/23, 2:20 PM",pfh245,TaskDefinition:Oracle R12 Access Request Status Report (6/13/23)
+Create,,,,"6/14/23, 9:38 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification [DATE] [6/14/23, 1:38 PM]"
+Create,,,,"6/14/23, 9:51 AM",pfh245,"TaskSchedule:LS Oracle R12  Manager Certification - Umesh [DATE] [6/14/23, 1:51 PM]"
+Create,,,,"6/14/23, 9:52 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Umesh [DATE] [6/14/23, 1:52 PM]"
+Create,,,,"6/14/23, 9:54 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Trupti [DATE] [6/14/23, 1:54 PM]"
+Create,,,,"6/14/23, 9:55 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Chris [DATE] [6/14/23, 1:55 PM]"
+Create,,,,"6/14/23, 9:56 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Chris [DATE] [6/14/23, 1:56 PM]"
+Create,,,,"6/14/23, 9:59 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Priya [DATE] [6/14/23, 1:59 PM]"
+Create,,,,"6/14/23, 10:00 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Gregory [DATE] [6/14/23, 2:00 PM]"
+Create,,,,"6/14/23, 10:02 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Peter [DATE] [6/14/23, 2:02 PM]"
+Create,,,,"6/15/23, 9:52 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Trupti [DATE] [6/15/23, 1:52 PM]"
+Create,,,,"6/15/23, 9:52 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Trupti [DATE] [6/15/23, 1:52 PM]"
+Create,,,,"6/15/23, 9:53 AM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Trupti [DATE] [6/15/23, 1:53 PM]"
+Create,,,,"6/15/23, 2:27 PM",pfh245,"TaskSchedule:LS Oracle R12 Manager Certification - Trupti [DATE] [6/15/23, 6:27 PM]"
